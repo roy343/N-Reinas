@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/N_Reinas.dir/main.cpp.o  -o N_Reinas 
